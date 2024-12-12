@@ -1,2 +1,2 @@
-# llm
+# LLMs
 Implementing LLM Skills
